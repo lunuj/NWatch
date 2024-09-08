@@ -1,0 +1,8 @@
+#line 1 "/Users/lunuj/Documents/project/esp32/TFT/.vscode/arduino.json"
+{
+    "sketch": "TFT.ino",
+    "output": "build",
+    "configuration": "PSRAM=disabled,PartitionScheme=huge_app,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=460800,DebugLevel=none",
+    "board": "esp32:esp32:esp32",
+    "port": "/dev/tty.usbserial-10"
+}

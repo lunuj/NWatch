@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"*.cpp": "cpp",
+			"gui.h": "cpp"
+		}
+	}
+}

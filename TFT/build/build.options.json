@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=huge_app,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=460800,DebugLevel=none",
+  "hardwareFolders": "/Users/lunuj/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/lunuj/Documents/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/Users/lunuj/Documents/project/esp32/TFT"
+}
